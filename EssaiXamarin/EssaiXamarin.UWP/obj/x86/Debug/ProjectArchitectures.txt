@@ -1,0 +1,1 @@
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\EssaiXamarin\EssaiXamarin.UWP\EssaiXamarin.UWP.csproj;x86

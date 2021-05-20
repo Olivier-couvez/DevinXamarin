@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JeuDevinXamarin.views.JeuDevin">
+    Title="Jeu du devin" Height="600" Width="500" FontFamily="Century Gothic" Background="#FFD4E3E4" Loaded="JeuDuDevin_Loaded">
+    <ContentPage.Content>
+
+        <StackLayout>
+
+            <Grid Margin="0,0,0,0">
+                <Label x:Name="lblTitre" Text="Le nombre Mystère" HorizontalTextAlignment="Center" Margin="0,22,0,0" VerticalTextAlignment="Center" FontAttributes="Bold" FontSize="18" TextColor="#FF337FB4"/>
+                <Label x:Name="lblNbEssai" Text="Nb essais" HorizontalTextAlignment="Left" Margin="75,84,0,0" VerticalTextAlignment="Center" TextColor="#FF205199"/>
+                <Label x:Name="lblPlage" Text="Plage" HorizontalTextAlignment="Left" Margin="75,134,0,0" VerticalTextAlignment="Center" TextColor="#FF205199"/>
+                <Label x:Name="lblMessage" Text="Messages" HorizontalTextAlignment="Left" Margin="203,199,0,0" VerticalTextAlignment="Center" TextColor="#FF205199"/>
+                <Label x:Name="lblProposition" Text="Proposition" HorizontalTextAlignment="Left" Margin="203,292,0,0" VerticalTextAlignment="Center" TextColor="#FF205199"/>
+                <Entry x:Name="txtbEssai" Text="{Binding NbEssai, Mode=TwoWay}" HorizontalTextAlignment="Center" Margin="250,84,0,0"  VerticalTextAlignment="Center" Width="120" Height="23" Background="#FF2876E6" TextColor="#FFE89F55"/>
+                <Entry x:Name="txtbPlage" Text="{Binding Plage, Mode=TwoWay}" HorizontalTextAlignment="Center" Margin="250,134,0,0"  VerticalTextAlignment="Center" Width="120" Height="23" Background="#FF2876E6" TextColor="#FFE89F55"/>
+                <Entry x:Name="txtbMessage" Text="{Binding Message, Mode=TwoWay}" HorizontalTextAlignment="Center" Margin="0,239,0,0" VerticalTextAlignment="Center" Width="480" Height="25" Background="#FF2876E6" TextColor="#FFE89F55" IsEnabled="False"/>
+                <Entry x:Name="txtbProposition" Text="{Binding Proposition, Mode=TwoWay}" HorizontalTextAlignment="Center" Margin="0,329,0,0"  VerticalTextAlignment="Center" Width="480" Height="25" Background="#FF2876E6" TextColor="#FFE89F55"/>
+                <Button Text="Proposition" Command="{Binding CommandeProposition}" HorizontalOptions="Center" Margin="119,414,0,0" VerticalOptions="Center" Width="106" Height="30" Background="#FF2876E6" TextColor="#FFE89F55"/>
+                <Button Text="Nouveau" Command="{Binding CommandeNouveau}" HorizontalOptions="Center" Margin="297,414,0,0" VerticalOptions="Center" Width="108" Height="30" Background="#FF2876E6" TextColor="#FFE89F55"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

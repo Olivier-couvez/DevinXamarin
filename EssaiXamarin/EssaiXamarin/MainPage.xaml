@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EssaiXamarin.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Le nombre mystère" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" Margin="0,50,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Column="0" x:Name="lblNbEssai" Text="Nb essais : " TextColor="#FF205199" HorizontalTextAlignment="End" VerticalTextAlignment="Center"/>
+                <Entry Grid.Column="1"  x:Name="txtbEssai" Text="{Binding NbEssai, Mode=TwoWay}" WidthRequest="100" HorizontalOptions="Start" Background="#FF2876E6" TextColor="#FFE89F55"/>
+            </Grid>
+            
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Column="0" x:Name="lblPlage" Text="Plage : " TextColor="#FF205199" HorizontalTextAlignment="End" VerticalTextAlignment="Center"/>
+                <Entry Grid.Column="1" x:Name="txtbPlage" Text="{Binding Plage, Mode=TwoWay}" WidthRequest="100" HorizontalOptions="Start" Background="#FF2876E6" TextColor="#FFE89F55"/>
+            </Grid>
+
+            <Grid Grid.Row="2" Margin="0,50,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150*"/>
+                    <ColumnDefinition Width="1000*"/>
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Column="0" x:Name="lblMessage" Text="Messages : " TextColor="#FF205199" HorizontalTextAlignment="Start" VerticalTextAlignment="Center"/>
+                <Entry Grid.Column="1" x:Name="txtbMessage" Text="{Binding Message, Mode=TwoWay}" Background="#FF2876E6" TextColor="#FFE89F55" IsEnabled="False"/>
+            </Grid>
+
+            <Grid Grid.Row="3" Margin="0,70,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150*"/>
+                    <ColumnDefinition Width="1000*"/>
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Column="0" x:Name="lblProposition" Text="Proposition : " TextColor="#FF205199" HorizontalTextAlignment="Start" VerticalTextAlignment="Center"/>
+                <Entry Grid.Column="1" x:Name="txtbProposition" Text="{Binding Proposition, Mode=TwoWay}" Background="#FF2876E6" TextColor="#FFE89F55"/>
+            </Grid>
+            
+            <Grid Grid.Row="4" Margin="0,50,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100*"/>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="100*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Column="1" Text="Proposition" Command="{Binding CommandeProposition}" Background="#FF2876E6" TextColor="#FFE89F55"/>
+                <Button Grid.Column="2" Text="Nouveau" Command="{Binding CommandeNouveau}"  Background="#FF2876E6" TextColor="#FFE89F55"/>
+            </Grid>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,9 @@
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\views\JeuDevin.xaml.g.cs
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\JeuDevinXamarin.AssemblyInfoInputs.cache
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\JeuDevinXamarin.AssemblyInfo.cs
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\JeuDevinXamarin.csproj.CoreCompileInputs.cache
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\JeuDevinXamarin.dll
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\ref\JeuDevinXamarin.dll
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\JeuDevinXamarin.pdb
