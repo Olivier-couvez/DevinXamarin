@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hKgKAoRuC6rSD0n2L+SPDJx5mLi6vNzP9Qdb3KiihwRFPgTChGHVQidCL0zMRL9iIJI0CX3Dt7HI6Rex36/2EQ==",
+  "dgSpecHash": "7aMrM3hjWRmWdfdKNbdZFKawXksindHZ4BW//Bv/Hxfhuw5N7Ev1D55RNWEqObsjVqWFNIhY+oX2LmWlzP27Qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\EssaiXamarin\\EssaiXamarin.UWP\\EssaiXamarin.UWP.csproj",
+  "projectFilePath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\JeuDevinXamarin\\EssaiXamarin\\EssaiXamarin.UWP\\EssaiXamarin.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TPCDA\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Users\\TPCDA\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",

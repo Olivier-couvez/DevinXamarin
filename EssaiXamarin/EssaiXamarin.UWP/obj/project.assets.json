@@ -9061,11 +9061,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\EssaiXamarin\\EssaiXamarin.UWP\\EssaiXamarin.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\JeuDevinXamarin\\EssaiXamarin\\EssaiXamarin.UWP\\EssaiXamarin.UWP.csproj",
       "projectName": "EssaiXamarin.UWP",
-      "projectPath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\EssaiXamarin\\EssaiXamarin.UWP\\EssaiXamarin.UWP.csproj",
+      "projectPath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\JeuDevinXamarin\\EssaiXamarin\\EssaiXamarin.UWP\\EssaiXamarin.UWP.csproj",
       "packagesPath": "C:\\Users\\TPCDA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\EssaiXamarin\\EssaiXamarin.UWP\\obj\\",
+      "outputPath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\JeuDevinXamarin\\EssaiXamarin\\EssaiXamarin.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -9089,8 +9089,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\EssaiXamarin\\EssaiXamarin\\EssaiXamarin.csproj": {
-              "projectPath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\EssaiXamarin\\EssaiXamarin\\EssaiXamarin.csproj"
+            "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\JeuDevinXamarin\\EssaiXamarin\\EssaiXamarin\\EssaiXamarin.csproj": {
+              "projectPath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\JeuDevinXamarin\\EssaiXamarin\\EssaiXamarin\\EssaiXamarin.csproj"
             }
           }
         }

@@ -1,1 +1,1 @@
-C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\EssaiXamarin\EssaiXamarin.UWP\EssaiXamarin.UWP.csproj;x86
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin.UWP\EssaiXamarin.UWP.csproj;x86

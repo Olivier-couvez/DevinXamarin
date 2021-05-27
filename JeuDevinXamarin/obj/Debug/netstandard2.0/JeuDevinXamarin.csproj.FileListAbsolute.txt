@@ -7,3 +7,4 @@ C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamari
 C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\JeuDevinXamarin.dll
 C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\ref\JeuDevinXamarin.dll
 C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\JeuDevinXamarin.pdb
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\JeuDevinXamarin\obj\Debug\netstandard2.0\JeuDevinXamarin.csprojAssemblyReference.cache

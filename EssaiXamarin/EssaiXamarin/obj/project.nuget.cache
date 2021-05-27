@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VOIJwIpaKwilCYDPM0HZlcnWNd5UTDK6R+aP3TNLa1hDJgjpyCThOlTbQsvG59FvMdWMjGox7HfS2o6VLHc30w==",
+  "dgSpecHash": "Bi+KTdm59+elFvYo4OhPLZB9PlLKE2Zb6hZ+1z6dJCnxVTZULYjZJvJTvJi2NHLkaXOtrTFaMXbLzZxAUO1Onw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\EssaiXamarin\\EssaiXamarin\\EssaiXamarin.csproj",
+  "projectFilePath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\JeuDevinXamarin\\EssaiXamarin\\EssaiXamarin\\EssaiXamarin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TPCDA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\TPCDA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -2149,11 +2149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\EssaiXamarin\\EssaiXamarin.Android\\EssaiXamarin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\JeuDevinXamarin\\EssaiXamarin\\EssaiXamarin.Android\\EssaiXamarin.Android.csproj",
       "projectName": "EssaiXamarin.Android",
-      "projectPath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\EssaiXamarin\\EssaiXamarin.Android\\EssaiXamarin.Android.csproj",
+      "projectPath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\JeuDevinXamarin\\EssaiXamarin\\EssaiXamarin.Android\\EssaiXamarin.Android.csproj",
       "packagesPath": "C:\\Users\\TPCDA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\EssaiXamarin\\EssaiXamarin.Android\\obj\\",
+      "outputPath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\JeuDevinXamarin\\EssaiXamarin\\EssaiXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2176,8 +2176,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\EssaiXamarin\\EssaiXamarin\\EssaiXamarin.csproj": {
-              "projectPath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\EssaiXamarin\\EssaiXamarin\\EssaiXamarin.csproj"
+            "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\JeuDevinXamarin\\EssaiXamarin\\EssaiXamarin\\EssaiXamarin.csproj": {
+              "projectPath": "C:\\Users\\TPCDA\\Desktop\\olivier\\csharp\\visual 2019\\JeuDevinXamarin\\EssaiXamarin\\EssaiXamarin\\EssaiXamarin.csproj"
             }
           }
         }

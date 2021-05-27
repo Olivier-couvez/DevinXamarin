@@ -12,3 +12,16 @@ C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\EssaiXamarin\EssaiXamarin\obj\
 C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\EssaiXamarin\EssaiXamarin\obj\Debug\netstandard2.0\ref\EssaiXamarin.dll
 C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\EssaiXamarin\EssaiXamarin\obj\Debug\netstandard2.0\EssaiXamarin.pdb
 C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\EssaiXamarin\EssaiXamarin\obj\Debug\netstandard2.0\EssaiXamarin.csprojAssemblyReference.cache
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\bin\Debug\netstandard2.0\EssaiXamarin.deps.json
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\bin\Debug\netstandard2.0\EssaiXamarin.dll
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\bin\Debug\netstandard2.0\ref\EssaiXamarin.dll
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\bin\Debug\netstandard2.0\EssaiXamarin.pdb
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\obj\Debug\netstandard2.0\EssaiXamarin.AssemblyInfoInputs.cache
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\obj\Debug\netstandard2.0\EssaiXamarin.AssemblyInfo.cs
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\obj\Debug\netstandard2.0\EssaiXamarin.csproj.CoreCompileInputs.cache
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\obj\Debug\netstandard2.0\EssaiXamarin.dll
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\obj\Debug\netstandard2.0\ref\EssaiXamarin.dll
+C:\Users\TPCDA\Desktop\olivier\csharp\visual 2019\JeuDevinXamarin\EssaiXamarin\EssaiXamarin\obj\Debug\netstandard2.0\EssaiXamarin.pdb
